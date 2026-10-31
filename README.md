@@ -13,7 +13,7 @@ performance.
 
 ## Dashboard Preview
 
-![Supermarket Sales Dashboard](images/dashboard.png)
+![Supermarket Sales Dashboard](images/dashboard.PNG)
 
 ## Tools Used
 
