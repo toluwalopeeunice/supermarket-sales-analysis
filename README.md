@@ -11,6 +11,10 @@ The analysis focuses on revenue trends, product and category
 performance, store-level contributions, and sales-representative
 performance.
 
+## Dashboard Preview
+
+![Supermarket Sales Dashboard](images/dashboard.png)
+
 ## Tools Used
 
 -   Microsoft Excel
