@@ -111,7 +111,6 @@ documenting assumptions and data-quality limitations.
 ## Files
 
 -   `Supermarket_Sales_Analysis.xlsx` --- Excel workbook containing the
-    original and cleaned datasets, PivotTables, dashboard, and insights,
-    if included in the uploaded version.
+    original and cleaned datasets, PivotTables, dashboard, and insights.
 -   `README.md` --- Project description and summary of methods and
     findings.
